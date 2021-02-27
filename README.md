@@ -1,17 +1,18 @@
 # Queritur inpellit poteras
 
-Credits to https://jaspervdj.be/lorem-markdownum/ <3
+Credits to https://jaspervdj.be/lorem-markdownum/ for the lorem ipsum text <3
 
 ## Working
 
 [NameMdTag](README.md#vesci-aethere-mortis-alta-paterque)
 
-[NameTag](README#vesci-aethere-mortis-alta-paterque)
-
 [HttpsNameTag](https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque)
 
 [OtherPageTag](Test#test)
 
+## Working in Docsify not in GH Preview
+
+[NameTag](README#vesci-aethere-mortis-alta-paterque)
 
 ## Not Working
 
