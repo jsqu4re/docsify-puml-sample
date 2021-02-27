@@ -2,7 +2,14 @@
 
 Credits to https://jaspervdj.be/lorem-markdownum/ <3
 
-## Ora illius tum
+## Working
+
+[NameMdTag](README.md#vesci-aethere-mortis-alta-paterque)
+[NameTag](README#vesci-aethere-mortis-alta-paterque)
+[HttpsNameTag](https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque)
+[OtherPageTag](Test#test)
+
+## Not Working
 
 ```plantuml
 @startuml
@@ -13,6 +20,7 @@ actor OtherPageTag [[$./Test#test]]
 @enduml
 ```
 
+## Ora illius tum
 
 Lorem markdownum tuta sorores, pars abiit exilium cupido querno sanguine, dura
 Syron et? Profuga ignes, ulciscor conpleat sinumque Inoo totidem *curvamine
