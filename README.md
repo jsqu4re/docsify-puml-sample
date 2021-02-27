@@ -1,5 +1,7 @@
 # Queritur inpellit poteras
 
+Credits to https://jaspervdj.be/lorem-markdownum/ <3
+
 ## Ora illius tum
 
 Lorem markdownum tuta sorores, pars abiit exilium cupido querno sanguine, dura
