@@ -8,11 +8,11 @@ Credits to https://jaspervdj.be/lorem-markdownum/ for the lorem ipsum text <3
 
 [HttpsNameTag](https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque)
 
-[OtherPageTag](Test#test)
-
 ## Working in Docsify not in GH Preview
 
 [NameTag](README#vesci-aethere-mortis-alta-paterque)
+
+[OtherPageTag](Test#test)
 
 ## Not Working
 
