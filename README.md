@@ -4,6 +4,23 @@ Credits to https://jaspervdj.be/lorem-markdownum/ <3
 
 ## Ora illius tum
 
+```plantuml
+@startuml
+actor Bob [[http://plantuml.com/sequence]]
+actor "This is [[http://plantuml.com/sequence Alice]] actor" as Alice
+Bob -> Alice [[http://plantuml.com/start]] : hello
+note left [[http://plantuml.com/start]]
+  a note with a link
+end note
+Alice -> Bob : hello with [[http://plantuml.com/start{Tooltip for message} some link]]
+note right [[http://plantuml.com/start]] : another note
+note left of Bob
+You can use [[http://plantuml.com/start links in notes]] also.
+end note
+@enduml
+```
+
+
 Lorem markdownum tuta sorores, pars abiit exilium cupido querno sanguine, dura
 Syron et? Profuga ignes, ulciscor conpleat sinumque Inoo totidem *curvamine
 conclamat* sinistra vices iocos conplecti si cum posco.
