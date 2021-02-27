@@ -6,7 +6,7 @@ Credits to https://jaspervdj.be/lorem-markdownum/ <3
 
 ```plantuml
 @startuml
-actor Bob [[http://plantuml.com/sequence]]
+actor Bob [[$./README.md#vesci-aethere-mortis-alta-paterque]]
 actor "This is [[http://plantuml.com/sequence Alice]] actor" as Alice
 Bob -> Alice [[http://plantuml.com/start]] : hello
 note left [[http://plantuml.com/start]]
