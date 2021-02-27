@@ -6,10 +6,10 @@ Credits to https://jaspervdj.be/lorem-markdownum/ <3
 
 ```plantuml
 @startuml
-actor name-md-tag [[$./README.md#vesci-aethere-mortis-alta-paterque]]
-actor name-tag [[$./README#vesci-aethere-mortis-alta-paterque]]
-actor https-name-tag [[https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque]]
-actor other-page-tag [[$./Test#test]]
+actor NameMdTag [[$./README.md#vesci-aethere-mortis-alta-paterque]]
+actor NameTag [[$./README#vesci-aethere-mortis-alta-paterque]]
+actor HttpsNameTag [[https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque]]
+actor OtherPageTag [[$./Test#test]]
 @enduml
 ```
 
