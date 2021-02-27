@@ -8,13 +8,16 @@ Credits to https://jaspervdj.be/lorem-markdownum/ for the lorem ipsum text <3
 
 [HttpsNameTag](https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque)
 
+[OtherPageMdTag](Test.md#test)
+
 ## Working in Docsify not in GH Preview
 
 [NameTag](README#vesci-aethere-mortis-alta-paterque)
 
+## Not Working
+
 [OtherPageTag](Test#test)
 
-## Not Working
 
 ```plantuml
 @startuml
@@ -22,6 +25,7 @@ actor NameMdTag [[$./README.md#vesci-aethere-mortis-alta-paterque]]
 actor NameTag [[$./README#vesci-aethere-mortis-alta-paterque]]
 actor HttpsNameTag [[https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque]]
 actor OtherPageTag [[$./Test#test]]
+actor OtherPageMdTag [[$./Test.md#test]]
 @enduml
 ```
 
