@@ -6,17 +6,10 @@ Credits to https://jaspervdj.be/lorem-markdownum/ <3
 
 ```plantuml
 @startuml
-actor Bob [[$./README.md#vesci-aethere-mortis-alta-paterque]]
-actor "This is [[http://plantuml.com/sequence Alice]] actor" as Alice
-Bob -> Alice [[http://plantuml.com/start]] : hello
-note left [[http://plantuml.com/start]]
-  a note with a link
-end note
-Alice -> Bob : hello with [[http://plantuml.com/start{Tooltip for message} some link]]
-note right [[http://plantuml.com/start]] : another note
-note left of Bob
-You can use [[http://plantuml.com/start links in notes]] also.
-end note
+actor name-md-tag [[$./README.md#vesci-aethere-mortis-alta-paterque]]
+actor name-tag [[$./README#vesci-aethere-mortis-alta-paterque]]
+actor https-name-tag [[https://jsqu4re.github.io/docsify-puml-sample/#/README?id=vesci-aethere-mortis-alta-paterque]]
+actor other-page-tag [[$./Test#test]]
 @enduml
 ```
 
